@@ -1,0 +1,10 @@
+{
+  "name": "tg-cli-node",
+  "version": "0.0.1",
+  "description": "Nodejs wrapper that communicates with the Telegram API.",
+  "main": "./lib/telegram-api.js",
+  "scripts": {
+  },
+  "author": "Perkovec",
+  "dependencies": {}
+}
