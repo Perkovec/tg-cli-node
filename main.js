@@ -8,7 +8,6 @@ Client.connect(connection => {
         console.log('message:', message);
     });
 
-
     connection.on('error', e => {
         console.log('Error from Telegram API:', e);
     });
