@@ -1,7 +1,7 @@
 # tg-cli-node
 Node.js wrapper for [telegram-cli](https://github.com/vysheng/tg)
 
-[Docs](https://github.com/Perkovec/tg-cli-node/wiki)
+[Docs](https://github.com/Perkovec/tg-cli-node/wiki/Documentation)
 
 ## How to use
 Install package from npm:
