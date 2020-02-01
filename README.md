@@ -1,4 +1,7 @@
 # tg-cli-node
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Perkovec/tg-cli-node.svg)](https://greenkeeper.io/)
+
 Node.js wrapper for [telegram-cli](https://github.com/vysheng/tg)
 
 [Docs](https://github.com/Perkovec/tg-cli-node/wiki/Documentation)
